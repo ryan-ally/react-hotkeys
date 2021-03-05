@@ -11,12 +11,12 @@
     "test": "test"
   },
   "devDependencies": {
-    "@babel/cli": "^7.2.3",
-    "@babel/core": "^7.2.2",
-    "@babel/plugin-proposal-class-properties": "^7.2.3",
-    "@babel/preset-env": "^7.2.3",
-    "@babel/preset-react": "^7.0.0",
-    "@babel/register": "^7.0.0",
+    "@babel/cli": "^7.12.16",
+    "@babel/core": "^7.12.16",
+    "@babel/plugin-proposal-class-properties": "^7.12.13",
+    "@babel/preset-env": "^7.12.16",
+    "@babel/preset-react": "^7.12.13",
+    "@babel/register": "^7.12.13",
     "babel-eslint": "10.0.1",
     "babel-plugin-transform-node-env-inline": "^0.4.3",
     "babel-preset-minify": "^0.5.0",
