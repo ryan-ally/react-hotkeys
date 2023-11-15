@@ -45,7 +45,7 @@
     "rollup-plugin-babel": "^4.3.0",
     "rollup-plugin-license": "^0.7.0",
     "rollup-plugin-strip": "^1.2.0",
-    "rollup-plugin-uglify": "^6.0.0",
+    "rollup-plugin-uglify": "^6.0.4",
     "simulant": "^0.2.2",
     "sinon": "^7.2.2",
     "sinon-chai": "^3.0.0",
